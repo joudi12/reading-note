@@ -5,9 +5,9 @@
 #### so i can see i can make alot of thing in github pages … i can add my web content easliy. blog, docs and i can draft things so i can edit it anytime before publishing and also preview my work instantly, also i can share it with everyone which is a great thing..for more  information a bout GitHub [this is the link](https://www.edureka.co/blog/how-to-use-github/)
 ## reading assignment task
 
-| day    |      reading assignment     |  
-|----------|:-------------:|
-|  1 |   Introductory HTML and JavaScript |
+| day    |      reading assignment     |  links  |
+|----------|:-------------:|------------    |
+|  1 |   Introductory HTML and JavaScript | https://joudi12.github.io/reading-note/class-01 |
 | 2  |   HTML Text, CSS Introduction, and Basic JavaScript Instructions  |  
 | 3  |    HTML Lists, CSS Boxes, JS Control Flow |  
 | 4  |       HTML Links, CSS Layout, JS Functions   |  
@@ -22,3 +22,4 @@
 | 13 |  Local Storage |    
 | 14 |      CSS Transforms, Transitions, and Animations     |  
 |15  |  What Google Learned About Teams|
+ link to read 
