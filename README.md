@@ -7,7 +7,7 @@
 
 | day    |      reading assignment     |  links  |
 |----------|:-------------:| ------------:|
-|  1 |   Introductory HTML and JavaScript | https://joudi12.github.io/reading-note/class-01 |
+|  1 |   Introductory HTML and JavaScript | [link](https://joudi12.github.io/reading-note/class-01) |
 | 2  |   HTML Text, CSS Introduction, and Basic JavaScript Instructions  |  [link]()  |
 | 3  |    HTML Lists, CSS Boxes, JS Control Flow |       |
 | 4  |       HTML Links, CSS Layout, JS Functions   |     |
