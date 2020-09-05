@@ -6,12 +6,12 @@
 ## reading assignment task
 
 | day    |      reading assignment     |  links  |
-|----------|:-------------:|------------    |
+|----------|:-------------:| ------------:|
 |  1 |   Introductory HTML and JavaScript | https://joudi12.github.io/reading-note/class-01 |
-| 2  |   HTML Text, CSS Introduction, and Basic JavaScript Instructions  |  |
-| 3  |    HTML Lists, CSS Boxes, JS Control Flow |  |
-| 4  |       HTML Links, CSS Layout, JS Functions   |  |
-|5   |HTML Images; CSS Color & Text|  |
+| 2  |   HTML Text, CSS Introduction, and Basic JavaScript Instructions  |  [link]()  |
+| 3  |    HTML Lists, CSS Boxes, JS Control Flow |       |
+| 4  |       HTML Links, CSS Layout, JS Functions   |     |
+|5   |HTML Images; CSS Color & Text|     |
 | 6  |  JS Object Literals; The DOM  |     |
 | 7  |  HTML Tables; JS Constructor Functions  |        |
 | 8  |   More CSS Layout|        |
