@@ -22,4 +22,3 @@
 | 13 |  Local Storage |    
 | 14 |      CSS Transforms, Transitions, and Animations     |  
 |15  |  What Google Learned About Teams|
-
