@@ -11,7 +11,7 @@
 | 2  |   HTML Text, CSS Introduction, and Basic JavaScript Instructions  |  [link](https://joudi12.github.io/reading-note/class-02)  |
 | 3  |    HTML Lists, CSS Boxes, JS Control Flow |   [link](https://joudi12.github.io/reading-note/class-03)    |
 | 4  |       HTML Links, CSS Layout, JS Functions   |   [link]( https://joudi12.github.io/reading-note/class-04) |
-|5   |HTML Images; CSS Color & Text|     |
+|5   |HTML Images; CSS Color & Text|    [linke](https://joudi12.github.io/reading-note/class-05) |
 | 6  |  JS Object Literals; The DOM  |     |
 | 7  |  HTML Tables; JS Constructor Functions  |        |
 | 8  |   More CSS Layout|        |
