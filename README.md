@@ -14,7 +14,7 @@
 |5   |HTML Images; CSS Color & Text|    [link](https://joudi12.github.io/reading-note/class-05) |
 | 6  |  JS Object Literals; The DOM  | [link](https://joudi12.github.io/reading-note/class-06)  |
 | 7  |  HTML Tables; JS Constructor Functions  |  [link](https://joudi12.github.io/reading-note/class-07)      |
-| 8  |   More CSS Layout|        |
+| 8  |   More CSS Layout|     [link](https://joudi12.github.io/reading-note/class-08)   |
 | 9  |   Forms and Events  |      |
 |10  |  JS Debugging|    |
 | 11 |   Assorted Topics |     |
