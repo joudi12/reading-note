@@ -18,8 +18,8 @@
 | 9  |   Forms and Events  | [link]( https://joudi12.github.io/reading-note/class-09)    |
 |10  |  JS Debugging|  [link](https://joudi12.github.io/reading-note/class-010)  |
 | 11 |   Assorted Topics | [link](https://joudi12.github.io/reading-note/class-11)    |
-| 12 |    Docs for the HTML <canvas> Element & Chart.js  |   
-| 13 |  Local Storage |    
-| 14 |      CSS Transforms, Transitions, and Animations     |  
+| 12 |    Docs for the HTML <canvas> Element & Chart.js  |  [link](https://joudi12.github.io/reading-note/class-12) |
+| 13 |  Local Storage |    |
+| 14 |      CSS Transforms, Transitions, and Animations     |  |
 |15  |  What Google Learned About Teams|
  
