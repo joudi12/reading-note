@@ -21,5 +21,5 @@
 | 12 |    Docs for the HTML <canvas> Element & Chart.js  |  [link](https://joudi12.github.io/reading-note/class-12) |
 | 13 |  Local Storage | [link](https://joudi12.github.io/reading-note/class-13)   |
 | 14 |      CSS Transforms, Transitions, and Animations     |  |
-|15  |  What Google Learned About Teams|
+|15  |  What Google Learned About Teams| [link](https://joudi12.github.io/reading-note/class-14) |
  
